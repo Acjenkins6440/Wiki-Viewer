@@ -1,0 +1,23 @@
+{
+  "name": "Wiki-Viewer",
+  "version": "1.0.0",
+  "description": "Simple Wikipedia Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acjenkins6440/Wiki-Viewer"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acjenkins6440/Wiki-Viewer/issues"
+  },
+  "homepage": "https://github.com/Acjenkins6440/Wiki-Viewer#readme",
+  "devDependencies": {
+    "serve": "^6.0.1"
+  }
+}
